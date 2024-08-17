@@ -1,2 +1,2 @@
 # psicode
-##Usando la herramienta https://markmap.js.org/ (Hermosa)
+##Practicando markdown en la herramienta https://markmap.js.org/ (Hermosa)
